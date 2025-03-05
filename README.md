@@ -25,6 +25,9 @@ sentiment-analysis/
 ├── LICENSE           # MIT License
 └── README.md         # Project documentation
 ```
+## Website Screenshot
+
+![image](https://github.com/user-attachments/assets/f4f7397a-d6ee-4d4d-85ac-93fdb3dec162)
 
 ## Installation
 
